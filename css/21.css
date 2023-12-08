@@ -32,3 +32,7 @@ textarea{
 .maincontainer {
     padding: 1% 5%;
 }
+
+p{
+    margin: 0;
+}
